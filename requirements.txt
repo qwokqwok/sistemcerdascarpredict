@@ -3,4 +3,3 @@ altair
 pandas
 numpy
 scikit-learn
-pickle
